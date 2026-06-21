@@ -17,7 +17,7 @@
 </p>
 
 <p>
-<a href="TESTFLIGHT_URL">Try it on TestFlight</a> ·
+<a href="https://testflight.apple.com/join/ZCQheBVj">Try it on TestFlight</a> ·
 <a href="ABOUT_URL">About</a> ·
 <a href="#status">Support</a>
 </p>
