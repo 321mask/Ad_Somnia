@@ -7,7 +7,7 @@
 ### Lucid-dream training that times haptic and audio cues to your REM sleep.
 
 <p>
-<a href="TESTFLIGHT_URL"><img src="https://img.shields.io/badge/iOS-17%2B-000000?logo=apple&logoColor=white" alt="iOS 17+"></a>
+<a href="TESTFLIGHT_URL"><img src="https://testflight.apple.com/join/ZCQheBVj?logo=apple&logoColor=white" alt="iOS 17+"></a>
 <img src="https://img.shields.io/badge/watchOS-10%2B-000000?logo=apple&logoColor=white" alt="watchOS 10+">
 <img src="https://img.shields.io/badge/SwiftUI-2C2C2E?logo=swift&logoColor=F05138" alt="SwiftUI">
 <img src="https://img.shields.io/badge/SwiftData-2C2C2E" alt="SwiftData">
@@ -19,7 +19,6 @@
 <p>
 <a href="TESTFLIGHT_URL">Try it on TestFlight</a> ·
 <a href="ABOUT_URL">About</a> ·
-<a href="VIDEO_URL">Demo video</a> ·
 <a href="#status">Support</a>
 </p>
 
@@ -32,14 +31,6 @@ Lucid dreaming — knowing you're dreaming while it's happening — is a learnab
 Meanwhile, the Apple Watch on millions of wrists already records the sleep-stage data that pinpoints those REM windows. For most people that data just becomes a morning summary chart and nothing more.
 
 Ad Somnia turns that latent signal into action. It reads your recent Apple Watch sleep history, models when you're most likely to be in REM, and delivers a gentle cue — a Watch haptic, an audio tone — inside that window. The cue is faint enough not to wake you, but distinct enough that, with practice, you learn to recognize it from inside the dream. Lucid dreaming stops being a discipline you maintain and becomes a signal you train yourself to catch.
-
-> _[Optional: add one sourced statistic here if you want a hard number — e.g. lucid-dream prevalence, or REM-targeted cue induction success rates from the sleep-science literature. Leave it out rather than ship an unsourced figure.]_
-
-## Demo
-
-[![Watch the demo](assets/demo-thumb.png)](VIDEO_URL)
-
-_~30-second walkthrough: arming a session from the home screen, previewing the audio cue in Volume Calibration, and configuring Apple Watch haptic strength._
 
 ## What it does
 
@@ -102,10 +93,10 @@ It's the same lesson good privacy engineering teaches: the thing that defines th
 ## Screens
 
 <p>
-<img src="assets/screenshots/home.png" width="240" alt="Home screen with cue button and next-window countdown">
-<img src="assets/screenshots/calibration.png" width="240" alt="Volume calibration for the audio cue">
-<img src="assets/screenshots/graph.png" width="240" alt="Session graph of cue windows against sleep">
-<img src="assets/screenshots/watch.png" width="240" alt="Apple Watch haptic configuration">
+<img src="assets/Apple Watch cues.png" width="240" alt="Home screen with cue button and next-window countdown">
+<img src="assets/Lucid Dreaming.png" width="240" alt="Volume calibration for the audio cue">
+<img src="assets/Measure dreamtime.png" width="240" alt="Session graph of cue windows against sleep">
+<img src="assets/Relax before sleep.png" width="240" alt="Apple Watch haptic configuration">
 </p>
 
 | Screen | What it shows |
