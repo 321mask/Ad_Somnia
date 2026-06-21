@@ -18,7 +18,7 @@
 
 <p>
 <a href="https://testflight.apple.com/join/ZCQheBVj">Try it on TestFlight</a> ·
-<a href="ABOUT_URL">About</a> ·
+<a href="https://321mask.github.io/adsomnia-site/index.html">About</a> ·
 <a href="#status">Support</a>
 </p>
 
