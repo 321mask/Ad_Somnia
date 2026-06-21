@@ -7,7 +7,7 @@
 ### Lucid-dream training that times haptic and audio cues to your REM sleep.
 
 <p>
-<a href="TESTFLIGHT_URL"><img src="https://img.shields.io/badge/iOS-17%2B-000000?logo=apple&logoColor=white" alt="iOS 17+"></a>
+<a href="https://testflight.apple.com/join/ZCQheBVj"><img src="https://img.shields.io/badge/iOS-17%2B-000000?logo=apple&logoColor=white" alt="iOS 17+"></a>
 <img src="https://img.shields.io/badge/watchOS-10%2B-000000?logo=apple&logoColor=white" alt="watchOS 10+">
 <img src="https://img.shields.io/badge/SwiftUI-2C2C2E?logo=swift&logoColor=F05138" alt="SwiftUI">
 <img src="https://img.shields.io/badge/SwiftData-2C2C2E" alt="SwiftData">
