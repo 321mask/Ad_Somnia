@@ -70,7 +70,7 @@ Two cue channels, two devices. Audio plays at sleep onset on iPhone — a three-
 
 ## Status
 
-- **TestFlight** — live: [try the build](TESTFLIGHT_URL).
+- **TestFlight** — live: [try the build](https://testflight.apple.com/join/ZCQheBVj).
 - **App Store** — `[in review / coming soon — update before publishing]`.
 - **Source** — private repository, kept closed by design. The full app is available for review via the TestFlight build above.
 - **Built by** — solo, end to end: design, iOS + watchOS engineering, the REM-timing model, and submission.
