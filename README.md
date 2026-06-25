@@ -13,11 +13,11 @@
 <img src="https://img.shields.io/badge/SwiftData-2C2C2E" alt="SwiftData">
 <img src="https://img.shields.io/badge/HealthKit-FF2D55?logo=apple&logoColor=white" alt="HealthKit">
 <img src="https://img.shields.io/badge/WatchConnectivity-5856D6" alt="WatchConnectivity">
-<img src="https://img.shields.io/badge/status-TestFlight-7D4DFF" alt="Status: TestFlight">
+<img src="https://img.shields.io/badge/status-TestFlight-7D4DFF" alt="Status: On the App Store">
 </p>
 
 <p>
-<a href="https://testflight.apple.com/join/ZCQheBVj">Try it on TestFlight</a> ·
+<a href="https://apps.apple.com/fr/app/ad-somnia/id6776810198?l=en-GB">Try it on the App Store</a> ·
 <a href="https://321mask.github.io/adsomnia-site/index.html">About</a> ·
 <a href="#status">Support</a>
 </p>
@@ -70,8 +70,7 @@ Two cue channels, two devices. Audio plays at sleep onset on iPhone — a three-
 
 ## Status
 
-- **TestFlight** — live: [try the build](https://testflight.apple.com/join/ZCQheBVj).
-- **App Store** — `coming soon`.
+- **App Store** — <a href="https://apps.apple.com/fr/app/ad-somnia/id6776810198?l=en-GB">Try it on the App Store</a>.
 - **Source** — private repository, kept closed by design. The full app is available for review via the TestFlight build above.
 - **Built by** — solo, end to end: design, iOS + watchOS engineering, the REM-timing model, and submission.
 - **Support** — `https://321mask.github.io/adsomnia-site/support.html`.
