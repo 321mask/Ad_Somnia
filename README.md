@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/SwiftData-2C2C2E" alt="SwiftData">
 <img src="https://img.shields.io/badge/HealthKit-FF2D55?logo=apple&logoColor=white" alt="HealthKit">
 <img src="https://img.shields.io/badge/WatchConnectivity-5856D6" alt="WatchConnectivity">
-<img src="https://img.shields.io/badge/status-TestFlight-7D4DFF" alt="Status: On the App Store">
+<img src="https://img.shields.io/badge/status-On the App Store-7D4DFF" alt="Status: On the App Store">
 </p>
 
 <p>
