@@ -107,8 +107,8 @@ It's the same lesson good privacy engineering teaches: the thing that defines th
 
 ## Special thanks
 
-- [@handle](https://github.com/OlgaSivyuk) — [contribution]
-- [@handle](https://github.com/IO1711) — [contribution]
+- [@OlgaSivyuk](https://github.com/OlgaSivyuk) — [Designer]
+- [@IO1711](https://github.com/IO1711) — [Coder]
 
 <div align="center">
 <sub>Built with SwiftUI · HealthKit · WatchConnectivity · SwiftData — iOS + watchOS, fully on-device, no servers.</sub>
