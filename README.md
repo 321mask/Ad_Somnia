@@ -105,6 +105,11 @@ It's the same lesson good privacy engineering teaches: the thing that defines th
 | **Graph** | The night's cue windows plotted against recorded sleep. |
 | **Watch** | Configuring and test-firing the haptic cue on the paired Apple Watch. |
 
+## Special thanks
+
+- [@handle](https://github.com/OlgaSivyuk) — [contribution]
+- [@handle](https://github.com/IO1711) — [contribution]
+
 <div align="center">
 <sub>Built with SwiftUI · HealthKit · WatchConnectivity · SwiftData — iOS + watchOS, fully on-device, no servers.</sub>
 </div>
